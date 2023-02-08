@@ -1,0 +1,22 @@
+#player1{
+    background-color: bisque;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+#player2{
+    background-color:rgb(192, 128, 82);
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+#button{
+    background-color:rgb(214, 193, 161);
+    border-color: saddlebrown;
+    color:saddlebrown;
+    margin-right: 100px;
+}
+
+body{
+    background-color:rgb(143, 185, 153)
+}
