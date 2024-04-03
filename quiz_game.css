@@ -20,3 +20,12 @@
 body{
     background-color:rgb(143, 185, 153)
 }
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
